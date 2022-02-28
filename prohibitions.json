@@ -1,0 +1,9 @@
+[
+{ "q" : "En el Reino Unido una ley prohíbe morir en ...",
+  "t" : "Parlamento", "f" : ["Central Park"] },
+{ "q" :"¿En qué país están prohibidos los viajes en el tiempo en películas y series de televisión, argumentando que estos (cuando son al pasado), son una falta de respeto a la historia?",
+  "t" : "China", f: [ "Japón", "Zambia", "Vaticano"] }
+{ "q" : "Las ventanillas de los primeros jets comerciales eran de forma cuadrada",
+    "a" : "T"
+}
+]
