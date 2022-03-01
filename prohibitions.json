@@ -1,9 +1,14 @@
 [
 { "q" : "En el Reino Unido una ley prohíbe morir en ...",
-  "t" : "Parlamento", "f" : ["Central Park"] },
+  "t" : "Parlamento", "f" : ["Central Park"] 
+},
 { "q" :"¿En qué país están prohibidos los viajes en el tiempo en películas y series de televisión, argumentando que estos (cuando son al pasado), son una falta de respeto a la historia?",
-  "t" : "China", "f": [ "Japón", "Zambia", "Vaticano"] },
-{ "q" : "Las ventanillas de los primeros jets comerciales eran de forma cuadrada",
-    "a" : "T"
+  "t" : "China", "f": [ "Japón", "Zambia", "Vaticano"] 
+},
+{ "q" : "En ...  está prohibido el uso de piercings en cualquier parte del cuerpo así como el uso de jeans",
+  "t" : "Corea del Norte", "f" : [ "Cprea del Sur", "Eritrea", "Papúa Nueva Guinea"]
+},
+{ "q" : "En Suiza, después de las diez de la noche, no se puede tirar de la cadena del váter",
+  "t" : "Verdadero", "f" : [ "Falso" ]
 }
 ]
