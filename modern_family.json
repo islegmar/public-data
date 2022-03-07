@@ -1,0 +1,110 @@
+[
+    {
+        "q": "What is the name of Jay's ex wife?",
+        "t": "DeDe",
+        "f": [
+            "Peggy",
+            "Laverne",
+            "Shirley"
+        ]
+    },
+    {
+        "q": "What country does Gloria come from?",
+        "t": "Columbia",
+        "f": [
+            "Argentina",
+            "Mexico",
+            "Cuba"
+        ]
+    },
+    {
+        "q": "What is baby Joe's real/full first name?",
+        "t": "Fulgencio",
+        "f": [
+            "Donatello",
+            "Mercutio",
+            "Gribaldi"
+        ]
+    },
+    {
+        "q": "What is Manny afraid of?",
+        "t": "Butterflies",
+        "f": [
+            "Marshmallow",
+            "Matt LeBlanc",
+            "Spoons"
+        ]
+    },
+    {
+        "q": "What is the name of the business where Claire works with her father?",
+        "t": "Pritchett's Closets & Blinds",
+        "f": [
+            "Pritchett's Pitchers",
+            "Pritchett's Savings and Loan",
+            "Pritchett's Furnishings"
+        ]
+    },
+    {
+        "q": "As well as being a real estate agent, Phil owns what type of shop?",
+        "t": "Magic shop",
+        "f": [
+            "Toy shop",
+            "Cheese shop",
+            "Umbrella shop"
+        ]
+    },
+    {
+        "q": "Which of the following is NOT a job that Haley Dunphy tries?",
+        "t": "Game Show Host",
+        "f": [
+            "Assistant Fashion Designer",
+            "Social Media Club Promotor",
+            "Assistant Weatherwoman"
+        ]
+    },
+    {
+        "q": "What job does Alex Dunphy end up having?",
+        "t": "Academic Researcher",
+        "f": [
+            "Software Engineer",
+            "Airline Pilot",
+            "Game Show Host"
+        ]
+    },
+    {
+        "q": "Which of the following is NOT one of Luke Dunphy's family nicknames?",
+        "t": "Puke Skywalker",
+        "f": [
+            "Luke",
+            "Betty Luke",
+            "The Great Lukini"
+        ]
+    },
+    {
+        "q": "What is Mitch's job?",
+        "t": "Lawyer",
+        "f": [
+            "Accountant",
+            "Banker",
+            "Game Show Host"
+        ]
+    },
+    {
+        "q": "What is Cam's clown alter ego called?",
+        "t": "Fizbo",
+        "f": [
+            "Pombo",
+            "Bozo",
+            "Orko"
+        ]
+    },
+    {
+        "q": "Cam and Mitch named their daughter after a character on which TV show?",
+        "t": "Sex & The City",
+        "f": [
+            "Ally McBeal",
+            "Friends",
+            "Crimewatch UK"
+        ]
+    }
+]
