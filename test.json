@@ -1,0 +1,8 @@
+[
+  { "q" : "Pregunta T/F",
+    "a" : "T"
+  },
+  { "q" : "Pregunta con 4 respuestas",
+    "t" : "True", "f" : [ "Wrong#1", "Wrong#2", "Wrong#3" ]
+  }
+]
