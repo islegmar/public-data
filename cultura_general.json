@@ -1,0 +1,514 @@
+[
+    {
+        "q": "¿Cuál es el nombre del río más largo del mundo?",
+        "t": "río amazonas",
+        "f": [
+            "río nilo",
+            "río danubio"
+        ]
+    },
+    {
+        "q": "¿Cuál es el océano más grande del mundo?",
+        "t": "océano pacífico",
+        "f": [
+            "océano índico",
+            "océano atlántico"
+        ]
+    },
+    {
+        "q": "¿Cuál es el país más grande del mundo?",
+        "t": "rusia",
+        "f": [
+            "china",
+            "india"
+        ]
+    },
+    {
+        "q": "¿Cuál es el país que tiene forma de bota?",
+        "t": "italia",
+        "f": [
+            "españa",
+            "honduras"
+        ]
+    },
+    {
+        "q": "¿Cuál es el país más poblado de la tierra?",
+        "t": "china",
+        "f": [
+            "estados unidos",
+            "rusia"
+        ]
+    },
+    {
+        "q": "¿Cuál es la ciudad de los rascacielos?",
+        "t": "new york",
+        "f": [
+            "tokio",
+            "hong kong"
+        ]
+    },
+    {
+        "q": "¿En qué país se encuentra ubicada la Casa Rosada?",
+        "t": "argentina",
+        "f": [
+            "chile",
+            "mexico"
+        ]
+    },
+    {
+        "q": "¿Cuál es la capital de Nicaragua?",
+        "t": "managua",
+        "f": [
+            "santiago",
+            "brasilia"
+        ]
+    },
+    {
+        "q": "¿En qué país está ubicada la ciudad de Medellín?",
+        "t": "colombia",
+        "f": [
+            "venezuela",
+            "perú"
+        ]
+    },
+    {
+        "q": "¿En qué continente se encuentra Surinam?",
+        "t": "américa del sur",
+        "f": [
+            "áfrica",
+            "oceanía"
+        ]
+    },
+    {
+        "q": "¿Cuál es la nación más pequeña del mundo?",
+        "t": "el vaticano",
+        "f": [
+            "andorra",
+            "mónaco"
+        ]
+    },
+    {
+        "q": "¿Cuál es la única ciudad que está en dos continentes distintos?",
+        "t": "estambul",
+        "f": [
+            "moscú",
+            "berlín"
+        ]
+    },
+    {
+        "q": "¿Cuál es la ciudad italiana conocida como “la novia del mar”?",
+        "t": "venecia",
+        "f": [
+            "roma",
+            "florencia"
+        ]
+    },
+    {
+        "q": "¿Cuál es la cascada más alta del mundo?",
+        "t": "el salto del ángel",
+        "f": [
+            "cataratas de iguazú",
+            "cataratas del niáraga"
+        ]
+    },
+    {
+        "q": "¿Cuál es la capital de Pakistán?",
+        "t": "islamabad",
+        "f": [
+            "bagdag",
+            "marrakech"
+        ]
+    },
+    {
+        "q": "¿Cuál es la segunda montaña más alta del mundo?",
+        "t": "k2",
+        "f": [
+            "k1",
+            "k3"
+        ]
+    },
+    {
+        "q": "¿Cuándo terminó la II Guerra Mundial?",
+        "t": "1945",
+        "f": [
+            "1947",
+            "1943"
+        ]
+    },
+    {
+        "q": "¿En qué año llegó Cristobal Colón a América?",
+        "t": "1492",
+        "f": [
+            "1429",
+            "1592"
+        ]
+    },
+    {
+        "q": "¿Quién es el padre del psicoanálisis?",
+        "t": "sigmund freud",
+        "f": [
+            "carl gustav jung",
+            "skinner"
+        ]
+    },
+    {
+        "q": "¿Quién era el general de los Nazis en la Segunda Guerra Mundial?",
+        "t": "adolf hitler",
+        "f": [
+            "benito mussolini",
+            "heinrich himmler"
+        ]
+    },
+    {
+        "q": "¿Cuál es el libro sagrado de los musulmanes?",
+        "t": "el corán",
+        "f": [
+            "la biblia",
+            "el talmud"
+        ]
+    },
+    {
+        "q": "¿En qué país se usó la primera bomba atómica?",
+        "t": "japón",
+        "f": [
+            "rusia",
+            "estados unidos"
+        ]
+    },
+    {
+        "q": "¿Cuál es el idioma más antiguo que pervive en Europa?",
+        "t": "vasco",
+        "f": [
+            "inglés",
+            "francés"
+        ]
+    },
+    {
+        "q": "¿Cuál fue el primer hombre en ir a la luna?",
+        "t": "neil armstrong",
+        "f": [
+            "louis armstrong",
+            "michael armstrong"
+        ]
+    },
+    {
+        "q": "¿Cómo se llama la primera mujer que viajó al espacio?",
+        "t": "valentina tereshkova",
+        "f": [
+            "alexandra tereshkova",
+            "amanda tereshkova"
+        ]
+    },
+    {
+        "q": "¿En qué guerra participó Juana de Arco?",
+        "t": "guerra de los 100 años",
+        "f": [
+            "guerra de la independencia francesa",
+            "guerra civil española"
+        ]
+    },
+    {
+        "q": "¿De qué año es la primera constitución española conocida como “La Pepa”?",
+        "t": "1812",
+        "f": [
+            "1835",
+            "1978"
+        ]
+    },
+    {
+        "q": "¿Quién fue el primer emperador romano?",
+        "t": "césar augusto",
+        "f": [
+            "julio cesar",
+            "marco aurelia"
+        ]
+    },
+    {
+        "q": "¿En qué isla murió Napoleón?",
+        "t": "santa elena",
+        "f": [
+            "sicilia",
+            "creta"
+        ]
+    },
+    {
+        "q": "¿Qué año solo tuvo 355 días?",
+        "t": "1582",
+        "f": [
+            "1615",
+            "1823"
+        ]
+    },
+    {
+        "q": "¿Quién escribió La Odisea?",
+        "t": "homero",
+        "f": [
+            "virgilio",
+            "cervantes"
+        ]
+    },
+    {
+        "q": "¿Cuál es la obra más importante de la literatura en español?",
+        "t": "don quijote de la mancha",
+        "f": [
+            "el principito",
+            "cien años de soledad"
+        ]
+    },
+    {
+        "q": "¿Quién pintó el famoso cuadro La última cena?",
+        "t": "leonardo da vinci",
+        "f": [
+            "rembrandt",
+            "velazquez"
+        ]
+    },
+    {
+        "q": "¿Cómo se llama el Himno Nacional de Francia?",
+        "t": "la marsellesa",
+        "f": [
+            "la internacional",
+            "la solitaria"
+        ]
+    },
+    {
+        "q": "¿A qué se denomina séptimo arte?",
+        "t": "cine",
+        "f": [
+            "pintura",
+            "escultura"
+        ]
+    },
+    {
+        "q": "¿Qué es un melómano?",
+        "t": "un amante de la música",
+        "f": [
+            "un amante del cine",
+            "un amabte de los cómics"
+        ]
+    },
+    {
+        "q": "¿Cómo se llama la estrofa poética que está conformada por 10 versos de 8 sílabas cada uno?",
+        "t": "décima espinela",
+        "f": [
+            "decasílabo",
+            "decasílabo octogonal"
+        ]
+    },
+    {
+        "q": "¿Quién escribió Cien años de soledad?",
+        "t": "gabriel garcía márquez",
+        "f": [
+            "mario vargas llosa",
+            "camilo josé cela"
+        ]
+    },
+    {
+        "q": "¿Quién pintó La noche estrellada?",
+        "t": "vincent van gogh",
+        "f": [
+            "rembrandt",
+            "velazquez"
+        ]
+    },
+    {
+        "q": "¿Quién es denominado el Rey del Rock and Roll en Estados Unidos?",
+        "t": "elvis presley",
+        "f": [
+            "bruce springsteen",
+            "michael jackson"
+        ]
+    },
+    {
+        "q": "¿Cuál es el nombre de la artista mexicana conocida como “la Doña”?",
+        "t": "maría félix",
+        "f": [
+            "paulina rubio",
+            "frida kahlo"
+        ]
+    },
+    {
+        "q": "¿En qué año murió Kurt Cobain?",
+        "t": "1994",
+        "f": [
+            "1996",
+            "1998"
+        ]
+    },
+    {
+        "q": "¿Quién compuso Los Conciertos de Brandeburgo?",
+        "t": "bach",
+        "f": [
+            "mozart",
+            "beethoven"
+        ]
+    },
+    {
+        "q": "¿Cuál es el elemento químico más abundante en la corteza terrestre?",
+        "t": "oxígeno",
+        "f": [
+            "nitrógeno",
+            "carbono"
+        ]
+    },
+    {
+        "q": "¿Cómo se denomina al resultado de una multiplicación?",
+        "t": "producto",
+        "f": [
+            "múltiplo",
+            "resultado"
+        ]
+    },
+    {
+        "q": "¿Cuál fue el primer metal que emplearon los seres humanos?",
+        "t": "cobre",
+        "f": [
+            "bronce",
+            "acero"
+        ]
+    },
+    {
+        "q": "¿Cómo se denomina al tipo de triángulo que tiene sus tres lados iguales?",
+        "t": "equilátero",
+        "f": [
+            "isósceles",
+            "recto"
+        ]
+    },
+    {
+        "q": "¿Cuál es el primer elemento de la Tabla periódica?",
+        "t": "hidrógeno",
+        "f": [
+            "helio",
+            "argón"
+        ]
+    },
+    {
+        "q": "¿Cómo se le denomina al centro de un átomo?",
+        "t": "núcleo",
+        "f": [
+            "electrón",
+            "protón"
+        ]
+    },
+    {
+        "q": "¿Cuál es el gas que se encuentra en mayor cantidad en el aire que respiramos?",
+        "t": "nitrógeno",
+        "f": [
+            "oxígeno",
+            "carbono"
+        ]
+    },
+    {
+        "q": "¿Cuál es el símbolo químico del oro?",
+        "t": "au",
+        "f": [
+            "or",
+            "ao"
+        ]
+    },
+    {
+        "q": "¿Qué es el cobalto?",
+        "t": "un mineral",
+        "f": [
+            "un vegetal",
+            "un animal"
+        ]
+    },
+    {
+        "q": "¿Qué se le agrega al hierro para hacer acero?",
+        "t": "carbono",
+        "f": [
+            "oxígeno",
+            "nitrógeno"
+        ]
+    },
+    {
+        "q": "¿En qué parte del cuerpo se produce la insulina?",
+        "t": "páncreas",
+        "f": [
+            "hígado",
+            "pulmones"
+        ]
+    },
+    {
+        "q": "¿Qué rama de la biología estudia a los animales?",
+        "t": "zoología",
+        "f": [
+            "fauna",
+            "medicina"
+        ]
+    },
+    {
+        "q": "¿Cuántas patas tiene una araña?",
+        "t": "8",
+        "f": [
+            "6",
+            "10"
+        ]
+    },
+    {
+        "q": "¿Cuál es el animal más rápido del mundo?",
+        "t": "uepardo",
+        "f": [
+            "cóndor",
+            "leopardo"
+        ]
+    },
+    {
+        "q": "¿Cuál es el único mamífero que puede volar?",
+        "t": "murciélago",
+        "f": [
+            "avestruz",
+            "águila"
+        ]
+    },
+    {
+        "q": "¿Cómo se llama el proceso por medio del cual las plantas obtienen su alimento?",
+        "t": "fotosíntesis",
+        "f": [
+            "biosíntesos",
+            "luminosíntesis"
+        ]
+    },
+    {
+        "q": "¿Cómo se denomina a los animales que nacen de un  huevo?",
+        "t": "ovíparos",
+        "f": [
+            "huevíparos",
+            "vivíparos"
+        ]
+    },
+    {
+        "q": "¿Cuál es el ave voladora más grande del mundo?",
+        "t": "condor andino",
+        "f": [
+            "águila real",
+            "halcón"
+        ]
+    },
+    {
+        "q": "¿Cuántos corazones tienen los pulpos?",
+        "t": "3",
+        "f": [
+            "1",
+            "ninguno"
+        ]
+    },
+    {
+        "q": "¿Cuál es la rama de la biología que estudia las plantas?",
+        "t": "botánica",
+        "f": [
+            "zoología",
+            "mineralogía"
+        ]
+    },
+    {
+        "q": "¿Cuántos huesos tiene en total un ser humano?",
+        "t": "206",
+        "f": [
+            "60",
+            "416"
+        ]
+    }
+]
