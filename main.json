@@ -1,0 +1,8 @@
+[
+  { "name" : "Cultura General", "url" : "https://islegmar.github.io/public-data/cultura_general.json" },
+  { "name" : "Marvel", "url" : "https://islegmar.github.io/public-data/marvel.json"          },
+  { "name" : "Modern Family", "url" : "https://islegmar.github.io/public-data/modern_family.json"   },
+  { "name" : "Prohibiciones Absurdas", "url" : "https://islegmar.github.io/public-data/prohibitions.json"    },
+  { "name" : "¿Verdad o Mentira?", "url" : "https://islegmar.github.io/public-data/true_false.json"      },
+  { "name" : "Test", "url" : "https://islegmar.github.io/public-data/test.json"            }
+]
