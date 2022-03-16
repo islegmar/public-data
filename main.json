@@ -6,5 +6,6 @@
   { "name" : "¿Verdad o Mentira?", "url" : "https://islegmar.github.io/public-data/true_false.json"      },
   { "name" : "¡¡¡ Frikiiii !!!", "url" : "https://islegmar.github.io/public-data/friki.json"      },
   { "name" : "Para Tintinófilos", "url" : "https://islegmar.github.io/public-data/tintin.json"      },
+  { "name" : "El Señor de los Anillos", "url" : "https://islegmar.github.io/public-data/lotr.json"      },
   { "name" : "Test", "url" : "https://islegmar.github.io/public-data/test.json"            }
 ]

@@ -1,0 +1,158 @@
+[
+    {
+        "q": "¿Cuál es la criatura que lleva más tiempo viviendo en la Tierra Media?",
+        "t": "Tom Bombadil",
+        "f": [
+            "Gandalf",
+            "Sauron",
+            "Ella Laraña"
+        ]
+    },
+    {
+        "q": "¿Cuántas nominaciones a los Óscar recibió ‘La Comunidad del Anillo’?",
+        "t": "Trece",
+        "f": [
+            "Siete",
+            "Once"
+        ]
+    },
+    {
+        "q": "En la película, ¿quién pronunció en el Concilio de Elrond la siguiente frase: “os hace falta gente inteligente para este tipo de... misión... cometido... cosa”?",
+        "t": "Pippin",
+        "f": [
+            "Merry",
+            "Sam",
+            "Gimli"
+        ]
+    },
+    {
+        "q": "¿Dónde acaba Isildur cuando le tienden una emboscada y pierde el Anillo Único?",
+        "t": "En el Campo de Celebrant",
+        "f": [
+            "En el Monte del Destino",
+            "En Bree"
+        ]
+    },
+    {
+        "q": "¿Por qué Frodo y Bilbo fueron a Valinor?",
+        "t": "Para curar sus heridas como portadores del anillo",
+        "f": [
+            "Simplemente, porque había sitio libre",
+            "Para vivir nuevas aventuras",
+            "Como regalo de los elfos"
+        ]
+    },
+    {
+        "q": "¿Cuántos días llevaba Gollum siguiendo el rastro de la Compañía cuando Frodo lo descubre en Moria?",
+        "t": "Tres",
+        "f": [
+            "Dos",
+            "Cinco"
+        ]
+    },
+    {
+        "q": "¿Qué son los orcos?",
+        "t": "Híbridos entre animales y otras criaturas, como hombres o Maiars",
+        "f": [
+            "Elfos corrompidos y, por tanto, inmortales",
+            "Criaturas creadas por Saruman, que salían del barro"
+        ]
+    },
+    {
+        "q": "¿Dónde está Gandalf cuando el Nazgûl persigue a los Hobbits en la frontera de la comarca?",
+        "t": "En la Torre de Orthanc",
+        "f": [
+            "En Rivendel",
+            "En las Colinas del Viento"
+        ]
+    },
+    {
+        "q": "¿Qué es el ojo de Sauron?",
+        "t": "La impresión que tiene Frodo sobre el aspecto que tendría la voluntad de Sauron",
+        "f": [
+            "Lo que quedó de Sauron después de ser derrotado por Elendil e Isildur"
+        ]
+    },
+    {
+        "q": "¿Cuál de los siguientes grupos está formado por menos de nueve miembros?",
+        "t": "Los Istari",
+        "f": [
+            "La Compañía del Anillo",
+            "Los Nazgûl"
+        ]
+    },
+    {
+        "q": "¿Cómo se llama el capítulo de su libro en el que trabaja Bilbo el día de su cumpleaños?",
+        "t": "‘Historia de un hobbit’",
+        "f": [
+            "‘Memorias de la Tierra Media’"
+        ]
+    },
+    {
+        "q": "¿Qué dos actores fueron los únicos miembros de la Compañía del Anillo que no llevaron ninguna prótesis?",
+        "t": "Viggo Mortensen y Sean Bean",
+        "f": [
+            "Elijah Wood y Sean Bean",
+            "Viggo Mortensen y Dominic Monaghan"
+        ]
+    },
+    {
+        "q": "¿En qué puerta se puede leer el siguiente rótulo: “Di amigo y entra”?",
+        "t": "En la Puerta de Moria",
+        "f": [
+            "En Bolsón Cerrado",
+            "En la casa de Elrond",
+            "En la Puerta de Bree"
+        ]
+    },
+    {
+        "q": "Las escenas principales de un personaje de la película se extrajeron de los anexos del libro, en lugar de la historia principal. ¿De qué personaje se trata?",
+        "t": "Arwen",
+        "f": [
+            "Gollum",
+            "Galadriel",
+            "Faramir"
+        ]
+    },
+    {
+        "q": "¿Qué aspecto tiene Théoden cuando Galdalf le libera del hechizo?",
+        "t": "Más joven",
+        "f": [
+            "Más viejo",
+            "Está igual"
+        ]
+    },
+    {
+        "q": "¿A qué tres razas pertenecen los muertos de la Ciénaga de los Muertos?",
+        "t": "Elfos, hombres y orcos",
+        "f": [
+            "Hombres, enanos y elfos",
+            "Enanos, Hobbits y hombres"
+        ]
+    },
+    {
+        "q": "En la película, según Gimli, ¿dónde está el truco a la hora de perseguir a los Uruk-hai?",
+        "t": "En la respiración adecuada",
+        "f": [
+            "En detectar su olor",
+            "En apreciar sus huellas",
+            "En tener las ‘patas’ largas"
+        ]
+    },
+    {
+        "q": "¿Qué actor llevaba en un ojo una lentilla opaca para proyectar una mirada errática?",
+        "t": "Brad Dourif",
+        "f": [
+            "Andy Serkis",
+            "Marton Csokas",
+            "Hugo Weaving"
+        ]
+    },
+    {
+        "q": "Una vez en Valinor, ¿serían Frodo y Bilbo inmortales?",
+        "t": "No",
+        "f": [
+            "Sí"
+        ]
+    }
+]
