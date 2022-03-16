@@ -1,0 +1,137 @@
+[
+    {
+        "q": "¿A cuál de los siguientes personajes conoció antes Tintín?",
+        "t": "Hernández y Fernández",
+        "f": [
+            "Profesor Tornasol",
+            "Bianca Castafiore",
+            "Capitán Haddock"
+        ]
+    },
+    {
+        "q": "¿Cómo se llama el perro que acompaña a Tintín en todas sus aventuras?",
+        "t": "Milú",
+        "f": [
+            "Ideafix",
+            "Dupond",
+            "Foxy"
+        ]
+    },
+    {
+        "q": "¿Qué problema tiene el Profesor Tornasol que es usado para momentos cómicos?",
+        "t": "Tiene sordera",
+        "f": [
+            "Tartamudea",
+            "Cojea de una pierna",
+            "Es miope"
+        ]
+    },
+    {
+        "q": "¿Cuál es el mayor enemigo de Tintín?",
+        "t": "Rastapopoulos",
+        "f": [
+            "Coronel Sponsz",
+            "Laszlo Careidas",
+            "Thomas Allan"
+        ]
+    },
+    {
+        "q": "¿Qué dos países inventa Hergé para \"El cetro de Ottokar\"",
+        "t": "Syldavia y Borduria",
+        "f": [
+            "Syldavia y Moldavia",
+            "San Theodoros y Nuevo Rico",
+            "San Theodoros y Borduria"
+        ]
+    },
+    {
+        "q": "¿Cómo se denomina al estilo de dibujo de Hergé?",
+        "t": "Linea clara",
+        "f": [
+            "Dibujo simple",
+            "Detalles simples",
+            "Colores planos"
+        ]
+    },
+    {
+        "q": "¿Cuál es la única aventura en la que la motivación de Tintín es únicamente emocional?",
+        "t": "Tintín en el Tibet",
+        "f": [
+            "Tintín en el Congo",
+            "El asunto Tornasol",
+            "El cangrejo de las pinzas de oro"
+        ]
+    },
+    {
+        "q": "¿Cuál es la continuación de \"Las siete bolas de cristal\"?",
+        "t": "El templo del sol",
+        "f": [
+            "Vuelo 714 para Sidney",
+            "La Oreja Rota",
+            "Stock de coque"
+        ]
+    },
+    {
+        "q": "¿Cuál de los siguientes pertenece a la edad de oro de Las aventuras de Tintín?",
+        "t": "El cangrejo de las pinzas de oro",
+        "f": [
+            "Aterrizaje en la Luna",
+            "Tintín y los Picaros",
+            "Tintín en América"
+        ]
+    },
+    {
+        "q": "¿A quién le pertenece el castillo de Moulinsart al principio de \"El secreto del unicornio\"?",
+        "t": "Los hermanos Pájaro",
+        "f": [
+            "Ivanovitch Shakarine",
+            "El capitán Haddock",
+            "El profesor Tornasol"
+        ]
+    },
+    {
+        "q": "¿Cuál fue el primer álbum publicado en color?",
+        "t": "La estrella misteriosa",
+        "f": [
+            "Las siete bolas de cristal",
+            "Tintín y los Picaros",
+            "Los cigarros del faraón"
+        ]
+    },
+    {
+        "q": "¿Cuál es el único album que no fué reeditado para añadirle color?",
+        "t": "Tintín en el pais de los Soviets",
+        "f": [
+            "Tintín en America",
+            "Tintín en el Congo",
+            "La isla negra"
+        ]
+    },
+    {
+        "q": "¿Cuál es el único álbum de Tintín que tiene tres ediciones distintas?",
+        "t": "La isla negra",
+        "f": [
+            "El loto azul",
+            "Las joyas de la Castafiore",
+            "Objetivo: La Luna"
+        ]
+    },
+    {
+        "q": "¿En qué álbum toda la trama se desarrolla dentro del castillo de Moulinsart?",
+        "t": "Las joyas de la Castafiore",
+        "f": [
+            "Las siete bolas de cristal",
+            "El secreto del unicornio",
+            "El asunto tornasol"
+        ]
+    },
+    {
+        "q": "Hergé murió antes de poder terminar su ultima obra, Tintín y el arte-Alfa ¿Cuál iba a ser el tema de esta?",
+        "t": "Arte moderno y sectas religiosas",
+        "f": [
+            "Obras de arte robadas en la guerra",
+            "Robos de museos famosos",
+            "Arte robado y espionaje"
+        ]
+    }
+]

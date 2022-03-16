@@ -1,14 +1,84 @@
 [
-{ "q" : "En el Reino Unido una ley prohíbe morir en ...",
-  "t" : "Parlamento", "f" : ["Central Park"] 
-},
-{ "q" :"¿En qué país están prohibidos los viajes en el tiempo en películas y series de televisión, argumentando que estos (cuando son al pasado), son una falta de respeto a la historia?",
-  "t" : "China", "f": [ "Japón", "Zambia", "Vaticano"] 
-},
-{ "q" : "En ...  está prohibido el uso de piercings en cualquier parte del cuerpo así como el uso de jeans",
-  "t" : "Corea del Norte", "f" : [ "Cprea del Sur", "Eritrea", "Papúa Nueva Guinea"]
-},
-{ "q" : "En Suiza, después de las diez de la noche, no se puede tirar de la cadena del váter",
-  "t" : "Verdadero", "f" : [ "Falso" ]
-}
+  {
+    "q": "En el Reino Unido una ley prohíbe morir en ...",
+    "t": "Parlamento",
+    "f": [
+      "Central Park"
+    ]
+  },
+  {
+    "q": "¿En qué país están prohibidos los viajes en el tiempo en películas y series de televisión, argumentando que estos (cuando son al pasado), son una falta de respeto a la historia?",
+    "t": "China",
+    "f": [
+      "Japón",
+      "Zambia",
+      "Vaticano"
+    ]
+  },
+  {
+    "q": "En ...  está prohibido el uso de piercings en cualquier parte del cuerpo así como el uso de jeans",
+    "t": "Corea del Norte",
+    "f": [
+      "Cprea del Sur",
+      "Eritrea",
+      "Papúa Nueva Guinea"
+    ]
+  },
+  {
+    "q": "En Suiza, después de las diez de la noche, no se puede tirar de la cadena del váter",
+    "t": "Verdadero",
+    "f": [
+      "Falso"
+    ]
+  },
+  {
+    "q": "En Francia no se permite llamar Napoleón a los ...",
+    "t": "Cerdos",
+    "f": [
+      "Gallinas",
+      "Enanos",
+      "Gatos Persas"
+    ]
+  },
+  {
+    "q": "En Rusia no puedes conducir el coche si está sucio",
+    "t": "Verdadero",
+    "f": [
+      "Falso"
+    ]
+  },
+  {
+    "q": "En Londres no se permite...",
+    "t": "Meter un cadáver en un taxi",
+    "f": [
+      "Comer fish sin chips",
+      "Fregar la calle con agua caliente",
+      "Caminar descalzo"
+    ]
+  },
+  {
+    "q": "En York es legal matar a un escocés si se hace con arco y flechas",
+    "t": "Verdadero",
+    "f": [
+      "Falso"
+    ]
+  },
+  {
+    "q": "En Los Ángeles está sancionado...",
+    "t": "Lamer sapos",
+    "f": [
+      "Comer Noodles",
+      "Llevar sombrero de copa",
+      "Ir sin ropa interior"
+    ]
+  },
+  {
+    "q": "En Ohio las mujeres no pueden llevar...",
+    "t": "Zapatos de Charol",
+    "f": [
+      "Gorra deportiva",
+      "Faldas de tubo",
+      "Pantalones rojos"
+    ]
+  }
 ]
