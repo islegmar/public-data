@@ -1,182 +1,182 @@
 [
-    {
-        "q": "\u00bfDe qu\u00e9 color fue el primer Hulk?",
-        "t": "Gris",
-        "f": [
-            "Verde",
-            "Rojo",
-            "Blanco"
-        ]
-    },
-    {
-        "q": "En Harry Potter, \u00bfQu\u00e9 hechizo debes conjurar para arreglar unas gafas?",
-        "t": "Oculus reparo",
-        "f": [
-            "Oculus reparat",
-            "Glafulus arreglo",
-            "Chimichanga ocular"
-        ]
-    },
-    {
-        "q": "\u00bfCada cu\u00e1ntos minutos ten\u00edan que pulsar la tecla en LOST?",
-        "t": "108",
-        "f": [
-            "42",
-            "120",
-            "55"
-        ]
-    },
-    {
-        "q": "En Big Bang Theory, \u00bfDe d\u00f3nde procede Penny?",
-        "t": "Nebraska",
-        "f": [
-            "New York",
-            "Los \u00c1ngeles",
-            "Texas"
-        ]
-    },
-    {
-        "q": "\u00bfDe qu\u00e9 metal est\u00e1n hechas las garras de Lobezno?",
-        "t": "Adantium",
-        "f": [
-            "Vibranium",
-            "Alumnio",
-            "Acero"
-        ]
-    },
-    {
-        "q": "\u00bfCu\u00e1ndo se emiti\u00f3 el primer cap\u00edtulo de los Simpson?",
-        "t": "1989",
-        "f": [
-            "1988",
-            "1990",
-            "1991"
-        ]
-    },
-    {
-        "q": "\u00bfC\u00f3mo se llama la digievoluci\u00f3n de Gabumon?",
-        "t": "Garurumon",
-        "f": [
-            "Greymon",
-            "S\u00faper Gabumon",
-            "Garurumon"
-        ]
-    },
-    {
-        "q": "En 'H\u00e9rcules' de Disney, \u00bfC\u00f3mo se llaman los sirvientes de Hades?",
-        "t": "P\u00e1nico y Pena",
-        "f": [
-            "Dolor y Pena",
-            "P\u00e1nico y Dolor",
-            "Dolor y P\u00e1nico"
-        ]
-    },
-    {
-        "q": "En 'The Walking Dead' \u00bfC\u00f3mo se llama el bate de Negan?",
-        "t": "Lucille",
-        "f": [
-            "Vampyre",
-            "Lubelly",
-            "Max Power"
-        ]
-    },
-    {
-        "q": "\u00bfQu\u00e9 le decimos al Dios de la Muerte?",
-        "t": "Hoy no",
-        "f": [
-            "Que te den",
-            "Duele m\u00e1s la vida",
-            "La vida es m\u00e1s poderosa"
-        ]
-    },
-    {
-        "q": "\u00bfDe qu\u00e9 material est\u00e1n hechos los brazaletes de Wonder Woman?",
-        "t": "Amazonium",
-        "f": [
-            "Vibranium",
-            "Meteorium",
-            "Adamantium"
-        ]
-    },
-    {
-        "q": "\u00bfCu\u00e1ndo es el cumplea\u00f1os de Harry Potter?",
-        "t": "31 Julio",
-        "f": [
-            "10 Junio",
-            "25 Agosto",
-            "10 Setiembre"
-        ]
-    },
-    {
-        "q": "En Star Wars \u00bfCu\u00e1l es el planeta de Luke Skywalker?",
-        "t": "Tatooine",
-        "f": [
-            "Alderaan",
-            "Naboo",
-            "Coruscant"
-        ]
-    },
-    {
-        "q": "Nada es verdad...",
-        "t": "todo est\u00e1 permitido",
-        "f": [
-            "salvo algunas cosas",
-            "hasta que se hace realidad",
-            "aunque en realidad si"
-        ]
-    },
-    {
-        "q": "\u00bfCu\u00e1l de los siguientes NO es un personaje Marvel?",
-        "t": "Flash",
-        "f": [
-            "Spider-man",
-            "Tormenta",
-            "Magneto"
-        ]
-    },
-    {
-        "q": "\u00bfC\u00f3mo se llama la madre de Simba?",
-        "t": "Sarabi",
-        "f": [
-            "Nala",
-            "Mufasa",
-            "Minerva"
-        ]
-    },
-    {
-        "q": "En Juego de Tronos, \u00bfCon qu\u00e9 otro nombre es conocido el Vidriag\u00f3n?",
-        "t": "Obsidiana",
-        "f": [
-            "Carbonita",
-            "Diamante Carb\u00f3n",
-            "Diamantina"
-        ]
-    },
-    {
-        "q": "\u00bfCon qu\u00e9 objeto puedes subir de nivel un Pokemon?",
-        "t": "Caramelo raro",
-        "f": [
-            "Nivelador",
-            "Seta de poder",
-            "Pokelevel"
-        ]
-    },
-    {
-        "q": "\u00bfEn qu\u00e9 a\u00f1o se estren\u00f3 la m\u00edtica pel\u00edcula Jurassic Park?",
-        "t": "1993",
-        "f": [
-            "1991",
-            "1995",
-            "1997"
-        ]
-    },
-    {
-        "q": "Por si no nos vemos luego...",
-        "t": "buenos d\u00edas, buenas tardes, buenas noches",
-        "f": [
-            "no te olvides el paraguas",
-            "recuerda comprar leche",
-            "toma mi espada, ll\u00e9vala por mi"
-        ]
-    }
+  {
+    "q": "¿De qué color fue el primer Hulk?",
+    "t": "Gris",
+    "f": [
+      "Verde",
+      "Rojo",
+      "Blanco"
+    ]
+  },
+  {
+    "q": "En Harry Potter, ¿Qué hechizo debes conjurar para arreglar unas gafas?",
+    "t": "Oculus reparo",
+    "f": [
+      "Oculus reparat",
+      "Glafulus arreglo",
+      "Chimichanga ocular"
+    ]
+  },
+  {
+    "q": "¿Cada cuántos minutos tenían que pulsar la tecla en LOST?",
+    "t": "108",
+    "f": [
+      "42",
+      "120",
+      "55"
+    ]
+  },
+  {
+    "q": "En Big Bang Theory, ¿De dónde procede Penny?",
+    "t": "Nebraska",
+    "f": [
+      "New York",
+      "Los Ángeles",
+      "Texas"
+    ]
+  },
+  {
+    "q": "¿De qué metal están hechas las garras de Lobezno?",
+    "t": "Adantium",
+    "f": [
+      "Vibranium",
+      "Alumnio",
+      "Acero"
+    ]
+  },
+  {
+    "q": "¿Cuándo se emitió el primer capítulo de los Simpson?",
+    "t": "1989",
+    "f": [
+      "1988",
+      "1990",
+      "1991"
+    ]
+  },
+  {
+    "q": "¿Cómo se llama la digievolución de Gabumon?",
+    "t": "Garurumon",
+    "f": [
+      "Greymon",
+      "Súper Gabumon",
+      "Caramon"
+    ]
+  },
+  {
+    "q": "En 'Hércules' de Disney, ¿Cómo se llaman los sirvientes de Hades?",
+    "t": "Pánico y Pena",
+    "f": [
+      "Dolor y Pena",
+      "Pánico y Dolor",
+      "Dolor y Pánico"
+    ]
+  },
+  {
+    "q": "En 'The Walking Dead' ¿Cómo se llama el bate de Negan?",
+    "t": "Lucille",
+    "f": [
+      "Vampyre",
+      "Lubelly",
+      "Max Power"
+    ]
+  },
+  {
+    "q": "¿Qué le decimos al Dios de la Muerte?",
+    "t": "Hoy no",
+    "f": [
+      "Que te den",
+      "Duele más la vida",
+      "La vida es más poderosa"
+    ]
+  },
+  {
+    "q": "¿De qué material están hechos los brazaletes de Wonder Woman?",
+    "t": "Amazonium",
+    "f": [
+      "Vibranium",
+      "Meteorium",
+      "Adamantium"
+    ]
+  },
+  {
+    "q": "¿Cuándo es el cumpleaños de Harry Potter?",
+    "t": "31 Julio",
+    "f": [
+      "10 Junio",
+      "25 Agosto",
+      "10 Setiembre"
+    ]
+  },
+  {
+    "q": "En Star Wars ¿Cuál es el planeta de Luke Skywalker?",
+    "t": "Tatooine",
+    "f": [
+      "Alderaan",
+      "Naboo",
+      "Coruscant"
+    ]
+  },
+  {
+    "q": "Nada es verdad...",
+    "t": "todo está permitido",
+    "f": [
+      "salvo algunas cosas",
+      "hasta que se hace realidad",
+      "aunque en realidad si"
+    ]
+  },
+  {
+    "q": "¿Cuál de los siguientes NO es un personaje Marvel?",
+    "t": "Flash",
+    "f": [
+      "Spider-man",
+      "Tormenta",
+      "Magneto"
+    ]
+  },
+  {
+    "q": "¿Cómo se llama la madre de Simba?",
+    "t": "Sarabi",
+    "f": [
+      "Nala",
+      "Mufasa",
+      "Minerva"
+    ]
+  },
+  {
+    "q": "En Juego de Tronos, ¿Con qué otro nombre es conocido el Vidriagón?",
+    "t": "Obsidiana",
+    "f": [
+      "Carbonita",
+      "Diamante Carbón",
+      "Diamantina"
+    ]
+  },
+  {
+    "q": "¿Con qué objeto puedes subir de nivel un Pokemon?",
+    "t": "Caramelo raro",
+    "f": [
+      "Nivelador",
+      "Seta de poder",
+      "Pokelevel"
+    ]
+  },
+  {
+    "q": "¿En qué año se estrenó la mítica película Jurassic Park?",
+    "t": "1993",
+    "f": [
+      "1991",
+      "1995",
+      "1997"
+    ]
+  },
+  {
+    "q": "Por si no nos vemos luego...",
+    "t": "buenos días, buenas tardes, buenas noches",
+    "f": [
+      "no te olvides el paraguas",
+      "recuerda comprar leche",
+      "toma mi espada, llévala por mi"
+    ]
+  }
 ]
