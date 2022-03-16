@@ -1,0 +1,138 @@
+[
+    {
+        "q": "¿Cómo comenzó la Segunda Guerra Mundial?",
+        "t": "Con la invasión de Polonia por parte de Alemania",
+        "f": [
+            "Con la invasión de la URSS por parte de Alemania",
+            "Con el pacto expansionista firmado por Japón, Italia y Alemania"
+        ]
+    },
+    {
+        "q": "¿En qué año accedió Hitler y el partido nacional-socialista al poder?",
+        "t": "1933",
+        "f": [
+            "1936",
+            "1939"
+        ]
+    },
+    {
+        "q": "¿Con qué nombre fue conocido el pacto de no agresión entre alemanes y soviéticos?",
+        "t": "Pacto Ribbentrop-Mólotov",
+        "f": [
+            "Pacto de Varsovia",
+            "Pacto de Brandeburgo"
+        ]
+    },
+    {
+        "q": "Hitler sufrió muchos atentados (todos ellos fallidos). ¿Cuántos exactamente?",
+        "t": "43",
+        "f": [
+            "23",
+            "32"
+        ]
+    },
+    {
+        "q": "¿Cómo se llamaba el avión que transportó la bomba atómica que se lanzó sobre Hiroshima?",
+        "t": "Enola Gay",
+        "f": [
+            "Little Boy",
+            "Little Wings"
+        ]
+    },
+    {
+        "q": "¿Cómo se llama la máquina que utilizaban los alemanes para encriptar sus mensajes y que los aliados no supieran qué decían?",
+        "t": "Enigma",
+        "f": [
+            "Die Maschine (La Máquina en alemán)",
+            "Unübersetzbar (intraducible en alemán)"
+        ]
+    },
+    {
+        "q": "¿Cuál fue el último país en rendirse concluyendo de este modo la Segunda Guerra Mundial?",
+        "t": "Japón",
+        "f": [
+            "Alemania",
+            "Italia"
+        ]
+    },
+    {
+        "q": "El Holocausto, el asesinato masivo y sistemático de población judía ¿con cuántas vidas terminó?",
+        "t": "Entre 5.900.000 y 7.100.000",
+        "f": [
+            "Entre 2.000.000 y 3.000.000",
+            "Entre 15.00.000 y 18.000.000"
+        ]
+    },
+    {
+        "q": "¿Con qué nombre en clave se conocía el decisivo desembarco de Normandía?",
+        "t": "Operación Overlord",
+        "f": [
+            "Operación Führer",
+            "Operación Freedom"
+        ]
+    },
+    {
+        "q": "¿En qué ciudad se lanzó primero la bomba atómica?",
+        "t": "Hiroshima",
+        "f": [
+            "Nagasaki",
+            "Pearl Harbour"
+        ]
+    },
+    {
+        "q": "¿Cuándo se rindió definitivamente Alemania?",
+        "t": "El 8 de mayo de 1945",
+        "f": [
+            "El 30 de abril de 1945",
+            "Alemania nunca firmó la rendición incondicional propiamente dicha"
+        ]
+    },
+    {
+        "q": "¿En qué famosa reunión se decidió la división de Alemania entre los aliados?",
+        "t": "En la Conferencia de Yalta",
+        "f": [
+            "En la Conferencia de Nuremberg",
+            "En la Conferencia de París"
+        ]
+    },
+    {
+        "q": "Los japoneses también realizaron brutales experimentos con humanos similares a los realizados por los nazis bajo la dirección de Josef Mengele. ¿Quién se conoce como el \"Mengele Nipón\"?",
+        "t": "Shiro Ishii",
+        "f": [
+            "Falso, Japón nunca realizó experimentos con humanos",
+            "Mamoru Shigemitsu"
+        ]
+    },
+    {
+        "q": "¿Con qué mujer se casó Hitler?",
+        "t": "Con Eva Braun",
+        "f": [
+            "Nunca se casó",
+            "Con Else Krüger"
+        ]
+    },
+    {
+        "q": "¿Qué significa la frase \"Arbeit macht frei\" escrita en muchas de las entradas a los campos de concentración?",
+        "t": "\"El trabajo hace libre\"",
+        "f": [
+            "\"Trabajar purifica el alma\"",
+            "\"Trabaja o muere\""
+        ]
+    },
+    {
+        "q": "¿Cuál fue el país que sufrió un mayor número de bajas militares y civiles?",
+        "t": "URSS",
+        "f": [
+            "Alemania",
+            "Inglaterra"
+        ]
+    },
+    {
+        "q": "¿Cuál de estas películas no transcurre durante la Segunda Guerra Mundial?",
+        "t": "Platoon",
+        "f": [
+            "Objetivo Birmania",
+            "El día más largo"
+        ]
+    }
+]
