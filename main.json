@@ -4,5 +4,6 @@
   { "name" : "Modern Family", "url" : "https://islegmar.github.io/public-data/modern_family.json"   },
   { "name" : "Prohibiciones Absurdas", "url" : "https://islegmar.github.io/public-data/prohibitions.json"    },
   { "name" : "¿Verdad o Mentira?", "url" : "https://islegmar.github.io/public-data/true_false.json"      },
+  { "name" : "¡¡¡ Frikiiii !!!", "url" : "https://islegmar.github.io/public-data/friki.json"      },
   { "name" : "Test", "url" : "https://islegmar.github.io/public-data/test.json"            }
 ]
