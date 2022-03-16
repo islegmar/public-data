@@ -8,5 +8,6 @@
   { "name" : "Para Tintinófilos", "url" : "https://islegmar.github.io/public-data/tintin.json"      },
   { "name" : "El Señor de los Anillos", "url" : "https://islegmar.github.io/public-data/lotr.json"      },
   { "name" : "World War II", "url" : "https://islegmar.github.io/public-data/WWII.json"      },
+  { "name" : "La Guerra Fría", "url" : "https://islegmar.github.io/public-data/cold_war.json"      },
   { "name" : "Test", "url" : "https://islegmar.github.io/public-data/test.json"            }
 ]
