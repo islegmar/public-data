@@ -1,0 +1,16 @@
+[
+  [ "Capaz", "incapaz" ],
+  [ "Ausente", "presente" ],
+  [ "correcto", "incorrecto" ],
+  [ "Activo", "pasivo" ],
+  [ "Temeroso", "valiente" ],
+  [ "Vivo", "muerto" ],
+  [ "viejo", "nuevo" ],
+  [ "Enfadado", "alegre" ],
+  [ "Artificial", "natural" ],
+  [ "Dormido", "despierto" ],
+  [ "Atento", "distraído" ],
+  [ "Guapo", "feo" ],
+  [ "Disponible", "indisponible" ],
+  [ "Despierto", "dormido" ]
+]
